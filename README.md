@@ -1,4 +1,4 @@
 test-pkg
 ========
 
-Test package for rustpkg
+This is a test package for rustpkg!
